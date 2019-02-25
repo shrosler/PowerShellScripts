@@ -1,3 +1,3 @@
 # Scripts
 
-a repository for common scripts that I found useful
+a repository for scripts that are useful
