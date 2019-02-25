@@ -10,7 +10,7 @@ a PowerShell script for updating the remote URL for several Git repositories at 
 
 **NewUrlPrefix** - the new URL you wish to update. Can also be a part of the URL (mandatory).
 
-**WorkingDirectory** - the root directory for the script to search for Git repositories recursive. When not provided the current directory will be the working directory (optional).
+**WorkingDirectory** - the root directory for the script to search for Git repositories recursive. When not provided the current directory will set as the working directory (optional).
 
 ## Examples:
 
